@@ -1,0 +1,1 @@
+Perguntar o que a pessoa gosta de fazer em relação a desenvolvimento (banco de dados, backend, frontend, testes, ...) e então, decidimos as ferramentas a serem utilizadas, baseadas na experiência ou popularidade. Organizaríamos as tarefas em USes e sprints e decidiríamos o padrão dos commits: quando commitar e o estilo de mensagem do commit (ex: `feat: tela de configurações`).

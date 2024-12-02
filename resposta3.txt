@@ -1,0 +1,1 @@
+Versionamento de código mantém um histórico da evolução do sistema. Permitindo trabalho paralelo de desenvolvedores e reversões fáceis.

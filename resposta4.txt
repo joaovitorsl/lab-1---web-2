@@ -1,0 +1,1 @@
+Ele é uma linguagem de progração interpretada, leve, de alto nível e baseada em eventos e roda diretamente no navegador sem a dependência de servidores. Na época até existiam alternativas mas elas eram restristas a um navegador ou complexas / lentas para o contexto web.

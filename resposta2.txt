@@ -1,0 +1,5 @@
+Git: Ajuda a manter um histórico de versões do código. Facilitando a organização e colaboração no desenvolvimento. Algumas ferramentas que utilizam o Git, como o GitHub e o GitLab, ainda dispõem de CI/CD que cria pipelines de testes para serem executados a cada nova versão.
+
+AWS: Servidor muito popular em que estão hospedados grandes sistemas web. É praticamente garantido que a aplicação estará disponível (isto é, tem risco muito baixo de cair).
+
+React: Um framework Javascript muito utilizado pra desenvolvimento de páginas web que permite a criação de componentes de forma amigável, utilizando uma sintaxe similar ás tags HTML. Ele otimiza bastante o desenvolvimento e é um ótimo primeiro contato para iniciantes.
